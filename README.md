@@ -3,8 +3,8 @@
 I am ...
 - ⚡ a web developer (one year experience, continuous learning)
 - 👯 graduated from [NJUPT](http://www.njupt.edu.cn/)
-- 🔭 currently learning react, node and some knowledge about video technology
-- 😄 Fun fact: has a girl who loves me
+- 🔭 currently learning Typescript, Vue3 (and some knowledge about React\Node) 
+- 😄 fun fact: has a girl who loves me
 
 <!--
 **Chenxi-Lau/chenxi-lau** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
