@@ -1,7 +1,7 @@
 ### Hi, I'm morning! 👋
 
 I am ...
-- ⚡ a web developer (one year experience, continuous learning)
+- ⚡ a web developer (two years experience, continuous learning)
 - 👯 graduated from [NJUPT](http://www.njupt.edu.cn/)
 - 🔭 currently learning Typescript, Vue3 (and some knowledge about React\Node) 
 - 😄 fun fact: has a girl who loves me
